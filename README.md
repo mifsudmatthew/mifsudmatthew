@@ -22,8 +22,8 @@
 <br>
 
 ### Contact me ✉️
-<a href="mailto:pedro.sales.muniz@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:matthewmifsud2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue" />
 </a>
 
 <br>
