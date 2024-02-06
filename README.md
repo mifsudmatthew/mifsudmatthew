@@ -21,6 +21,5 @@
 
 <br>
 ### Contact me ✉️
-text goes here
 <br>
 <br>
