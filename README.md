@@ -1,6 +1,11 @@
-# Hi there 👋
+# About me
 
-I am Matthew, currently a student at the University of Malta doing a bachelors in Computer Science.
+👋 Hi there, I'm Matthew!
+
+🎓 I'm a second-year student at the University of Malta, pursuing a Bachelor's degree in Computer Science.
+
+🖥️ Currently diving deep into the world of algorithms, software development, and cutting-edge technologies!
+
 
 All projects found here are built from the ground up, that is, from the design up to the implementation.
 
