@@ -1,6 +1,6 @@
 # About me 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=8000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm+Matthew!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=8000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm+Matthew!)](https://git.io/typing-svg)
 
 <h4>🎓I'm a second-year student at the University of Malta, pursuing a Bachelor's degree in Computer Science </h4>
 
