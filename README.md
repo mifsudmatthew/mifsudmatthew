@@ -1,6 +1,8 @@
 # Hi there 👋
 
-**I am Matthew, currently a student at the University of Malta doing a bachelors in Computer Science.
+I am Matthew, currently a student at the University of Malta doing a bachelors in Computer Science.
+
+All projects found here are built from the ground up, that is, from the design up to the implementation.
 
 Here are some ideas to get you started:
 
