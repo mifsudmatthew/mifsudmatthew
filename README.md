@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**mifsudmatthew/mifsudmatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Matthew, currently a student at the University of Malta doing a bachelors in Computer Science.
 
 Here are some ideas to get you started:
 
