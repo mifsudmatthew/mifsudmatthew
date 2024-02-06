@@ -21,6 +21,10 @@
 <br>
 <br>
 
-### Contact me ![image](https://github.com/mifsudmatthew/mifsudmatthew/assets/97695752/589fb16c-7980-408d-b42a-714cec3361db)
+### Contact me ✉️
+<a href="mailto:pedro.sales.muniz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <br>
 <br>
