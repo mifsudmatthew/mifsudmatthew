@@ -6,7 +6,7 @@
 
 #### 🖥️ All projects found here are built from the ground up, that is, from the design up to the implementation.
 
- <br>
+<br>
 
 ### Languages 👨‍💻
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -19,7 +19,6 @@
 <br>
 <br>
 
-<br>
 ### Contact me ✉️
 <br>
 <br>
