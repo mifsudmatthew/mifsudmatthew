@@ -22,7 +22,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mifsudmatthew&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mifsudmatthew&size_weight=0.5&count_weight=0.5)
 
 ### Contact me ✉️
 <a href="mailto:matthewmifsud2004@gmail.com">
